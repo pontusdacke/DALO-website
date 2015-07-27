@@ -1,0 +1,231 @@
+<h1>DALOs stadgar</h1>
+
+<h2>ALLMÄNNA BESTÄMMELSER</h2>
+
+<ol>
+  <li>Mål och inriktning:</li>
+    <span>
+      Föreningen skall inriktas mot att bevaka medlemmarnas intresse gentemot akademin vad avser kurser och utbildningar.<br>
+      Föreningen skall även sträva efter att profilera medlemmarna och medlemmarnas program utåt mot allmänheten och näringslivet.<br>
+      Föreningen skall också verka för att en god anda bibehölls bland medlemmar, samt att en social verksamhet bedrivs gentemot medlemmarna inom ramen för föreningens verksamhet.<br>
+    </span>
+  <li>Hemort:</li>
+    <span>
+      Föreningen har sin hemort i Västerås.
+    </span>
+  <li>Regler för hur verksamheten ska bedrivas:</li>
+    <span>
+      Föreningens verksamhet skall vara ideell, samt organiseras enligt demokratiska principer.<br>
+      Föreningen skall innehålla endast studenter som studerar vid Mälardalens Högskola inom program godkända av styrelsen, eller före detta studenter inom dessa program. För att utesluta ett program ur föreningen krävs beslut vid årsmöte. Studenter som studerar eller studerat vid en svensk högskola/universitet men som ej studerar eller har studerat ett av styrelsen godkänt program kan ansöka om undantagstillstånd genom att skicka en skriftlig ansökan till styrelsen får att bli medlem i föreningen, dessa studenter behöver dock specifikt godkännas av de som har studerat ett godkänt program för att få bli medlem i föreningens styrelse.<br>
+      <br>
+      För att äga och bära en Dalo-overall måste personen vara eller har varit en godk'nd medlem i föreningen.<br>
+    </span>
+  <li>Regler för medlemskap och uteslutning:</li>
+    <span>
+      Medlem antages i föreningen av styrelsen efter anmälan, som skall vara åtföljd av en medlemsavgift, denna medlemsskap avser livstid.<br>
+      Ansökan om medlemskap för avslås endast om det kan antas att sökande kommer att motarbeta föreningens ändamål och intresse. Endast styrelsen kan fatta beslut om att avslå en ansökan.<br>
+      Medlemssavgiften ska sättas av årsmötet.<br>
+      <br>
+      Föreningsmedlem för ej uteslutas ur föreningen av annan orsak än att medlemmen motverkat föreningen verksamhet eller på annat sätt skadat dess intressen.<br>
+      Beslut om uteslutning för ej fattas förrän medlemmen fått tillfälle att yttra sig.<br>
+      Beslut om uteslutning fattas av årsmötet.<br>
+    </span>
+  <li>Medlem:</li>
+    <span>
+      Medlem har rätt att deltaga i av föreningen anordnad verksamhet och möten.<br>
+      Medlem har rätt till fortlöpande information om föreningens angelägenheter.<br>
+      Medlem skall följa föreningens stadgar samt beslut som fattas av styrelsen och årsmötet.<br>
+      Medlem skall erlägga medlemsavgift som beslutas av årsmötet.<br>
+    </span>
+  <li>Beslutande organ:</li>
+    <span>
+      Föreningens beslutande organ är årsmötet, extra årsmöte och styrelsen.<br>
+      Verkställande organ är av styrelsen utsedda personer.<br>
+    </span>
+  <li>Firmateckning:</li>
+    <span>
+      Föreningens firma tecknas av ordförande och kassör.<br>
+    </span>
+  <li>Verksamhets- och räkenskapsår:</li>
+    <span>
+      Föreningens verksamhets- och räkenskapsår omfattar tiden 1 januari till och med 31 december.<br>
+      Styrelsen är vald för tiden från årsmötet till och med årsmötet påföljande år.<br>
+    </span>
+  <li>Stadgetolkning m.m:</li>
+    <span>
+      Uppstår tvekan om tolkningen av dessa stadgar, eller om fall förekommer som inte förutsedda i stadgarna, hänskjuts frågan till nästkommande årsmöte eller avgörs i trängande fall av styrelsen.<br>
+      <br>
+      Medlem förbinder sig genom sitt medlemskap i föreningen att ifråga om tillämpning av dessa stadgar inte väcka talan vid allmän domstol. Tvist om tillämpning av stadgarna skall istället avgöras i samförstånd mellan styrelsen och enskild medlem.<br>
+    </span>
+  <li>Ändring av stadgar:</li>
+    <span>
+      Årsmötet beslutar om stadgeändring, som träder i kraft efter ett andra stämmomöte inom ett närliggande antal veckor.<br>
+      Förslag till ändring av stadgarna får skriftligen avges av såväl medlem som styrelsen.<br>
+    </span>
+  <li>Upplösning av föreningen:</li>
+    <span>
+      För upplösning av föreningen krävs beslut vid årsmötet samt vid ett efterföljande extra årsmöte.<br>
+      Beslut jämte bestyrkta avskrifter av styrelsen och årsmötet protokoll i ärendet, samt revisionsberättelse, skall omedelbart delges Studentkåren.<br>
+      Föreningens tillgångar tillfaller Studentkåren vid föreningens upplösande.<br>
+    </span>
+
+  <h2>ÅRSMÖTE OCH EXTRA ÅRSMÖTE</h2>
+
+  <li>Tidpunkt och kallelse:</li>
+    <span>
+      Årsmötet som är föreningens högsta beslutande organ, hålls 1:a veckan i februari på tid och plats som styrelsen bestämmer.<br>
+      <br>
+      Kallelse till årsmötet skall av styrelsen senast tre veckor före mötet tillställas medlemmarna.<br>
+      Har förslag om stadgeändring, upplösning eller sammanslagning av föreningen med annan förening eller annan fråga av väsentlig betydelse för föreningen eller dess medlemmar, skall det anges i kallelsen.<br>
+    </span>
+  <li>Förslag till ärende att behandlas av årsmötet:</li>
+    <span>
+      Såväl medlem som styrelsen får avge motion att behandlas av årsmötet.<br>
+      Förslag från medlem skall vara styrelsen tillhandla senast fyra veckor före årsmötet.<br>
+    </span>
+  <li>Rösträtt samt yttrande- och förslagsrätt på årsmötet:</li>
+    <span>
+      Medlem som har betalat ålagd medlemsavgift har rösträtt på årsmötet.<br>
+      Rösträtten är personlig och får inte utövas genom ombud.<br>
+      Röstning får ej ske av styrelsen adjungerade personer.<br>
+    </span>
+  <li>Beslutmässighet:</li>
+    <span>
+    Mötet är beslutmässigt med det antal röstberättigade som är närvarande på årsmötet.<br>
+
+    <li>Beslut och omröstning:</li>
+
+    Beslut fattas med bifallsrop (acklamation) eller som så begärs efter omröstning (votering).<br>
+    Omröstningen sker öppet. Om röstberättigad medlem begär det skall dock val ske slutet.<br>
+    <br>
+    Beslut bekräftas med klubbslag.<br>
+    </span>
+  <li>Valbarhet:</li>
+    <span>
+      Valbar till styrelsen är röstberättigad medlem av föreningen, eller i specifika fall en medlem som är specifikt godkänd av de studenter som är medlemmar av föreningen och studerande av ett av styrelsen godkänt program (se §3 för regler angående godkända medlemmar). Arbetstagare inom föreningen får dock inte väljas till ledamot av styrelsen eller till revisor i föreningen.
+    </span>
+  <li>Ärenden till årsmötet:</li>
+    <span>
+      <ol>
+        <li>Vid årsmötet skall följande behandlas och protokollföras:</li>
+
+        <li>Fastställande av röstlängd för mötet.</li>
+
+        <li>Fråga om mötet har utlysts på rätt sätt.</li>
+
+        <li>Fastställande av föredragningslista.</li>
+
+        <li>Val av ordförande och sekreterare för mötet.</li>
+
+        <li>Val av protokolljusterare(2 st) och rösträknare.</li>
+
+        <li>a) Styrelsens verksamhetsberättelse för det senaste verksamhetsåret.
+        b) Styrelsens förvaltningsberättelse (balans- och resultaträkning) för det senaste räkenskapsåret.</li>
+
+        <li>Fråga om ansvarfrihet för styrelsen.</li>
+
+        <li>Fastställande av medlemsavgifter.</li>
+
+        <li>Fastställande av verksamhetsplan samt behandling av budget för det kommande verksamhets-/räkenskapsåret.</li>
+
+        <li>Årsmötet väljer ordförande samt ledamöter för en tid av ett år.</li>
+
+        <li>Behandling av styrelsens förslag och i rätt tid inkomna motioner.</li>
+
+        <li>Övriga frågor.</li>
+      </ol>
+    </span>
+  <li>Extra årsmöte:</li>
+    <span>
+      Styrelsen kan kalla medlemmarna till extra årsmöte, eller vid beslut om bordläggning av frågor på ordinarie årsmöte. Då något exceptionellt före föreningen inträffar.<br>
+      <br>
+      Vid extra årsmötet får endast det som föranlett mötet upptas till behandling.<br>
+      <br>
+      Om rösträtt på extra årsmötet och om beslutmässighet vid sådant möte gäller vad som sägs i § 14 och § 15.<br>
+    </span>
+  <h2>STYRELSEN</h2>
+  <li>Sammansättning:</li>
+    <span>
+      Styrelsen består av Ordförande, vice Ordförande, Kassör, Sekreterare, max 5 ledamöter samt max 2 suppleanter.<br>
+      Ordförande och ledamöter väljs på årsmötet, styrelsen konstituerar sedan styrelsens poster.<br>
+      Ordföranden ska ha den officiella titeln “Kapten”.<br>
+      <br>
+      Vid förfall av ledamot inträder suppleant enligt av styrelsen fastställd turordning. Avgår ledamot före mandatperiodens utgång inträder suppleant i dennes ställe enligt samma ordning för tiden till och med nästföljande årsmöte.<br>
+      <br>
+      Styrelsen får utse person till adjungerad ledamot. Sådant ledamot har inte rösträtt men kan efter beslut av styrelsen ges yttrande- och förslagsrätt.<br>
+    </span>
+  <li>Kallelse beslutmässighet och omröstning:</li>
+    <span>
+      Kallelse skall ske 2-3 veckor innan styrelsemöte.<br>
+      <br>
+      Styrelsen sammanträder regelbundet, eller på kallelse av ordförande, eller genom ordföranden av i styrelsen sittande medlemmar.<br>
+      <br>
+      Styrelsen är beslutmässig då 2/3 av styrelsen är närvarnade, vid beslut krävs absolut majoritet. Röstning får ej ske genom ombud.<br>
+      <br>
+      Beslut fattas med bifallsrop (acklamation) eller om så begärs efter omröstning (votering). Omröstning sker öppet, om röstberättigad medlem begär det skall dock val ske slutet.<br>
+      <br>
+      Vid lika antal röster äger ordförande utslagsröst.<br>
+      <br>
+      Beslut bekräftas med klubbslag.<br>
+      <br>
+      Vid sammanträde skall protokoll föras. Protokoll skall justeras av mötesordföranden och av en särskilt utsedd protokolljustare. Avvikande mening skall antecknas i protokollet.<br>
+    </span>
+  <li>Överlåtelse av beslutsrätten:</li>
+    <span>
+      Styrelsen får överlåta sin beslutanderätt I enskilda ärenden eller i vissa grupper av ärenden till sektion, kommitté eller annat organ till enskild medlem eller anställd.<br>
+      <br>
+      Den som fattat beslut med stöd av bemyndigande enligt föregående stycke skall fortlöpande underrätta styrelsen härom.<br>
+    </span>
+  <li>Styrelsens åligganden:</li>
+    <span>
+      När årsmötet inte är samlat är styrelsen föreningens beslutande organ och ansvar för föreningens angelägenheter.
+    </span>
+    <strong><p>Det åligger styrelsen att:</p></strong>
+      <span>
+        <ul>
+          <li>tillse att föreningens gällande lagar och bindande regler iakttas.</li>
+
+          <li>verkställa av årsmötet fattade beslut.</li>
+
+          <li>planera, leda och fördela arbetet inom föreningen.</li>
+
+          <li>ansvara för föreningens medel.</li>
+
+          <li>tillställa revisorerna räkenskaper m.m enligt § 21, och förbereda årsmöte.</li>
+        </ul>
+      </span>
+    <strong><p>Sekreteraren skall:</p></strong>
+      <span>
+        <ul>
+          <li>förbereda styrelsens sammanträden och föreningens möten.</li>
+
+          <li>föra protokoll över styrelsens sammanträden.</li>
+
+          <li>se till att föreningens handlingar hålls ordnade och försvaras på ett betryggande sätt.</li>
+
+          <li>om ordförande inte bestämmer annat, underteckna utgående handlingar.</li>
+
+          <li>årligen upprätta förslag till verksamhetsberättelse för föreningen.</li>
+        </ul>
+      </span>
+    <strong><p>Kassören skall:</p></strong>
+      <span>
+        <ul>
+          <li>se till att medlemmarna betalar beslutade avgifter till föreningen.</li>
+
+          <li>se till att föreningen söker bidrag från studentkåren och akademin med flera.</li>
+
+          <li>svara före föreningens bokföring, vilket innebär skyldighet att föra bok över föreningens räkenskaper.</li>
+
+          <li>årligen upprätta balans- och resultaträkningar.</li>
+
+          <li>se till att föreningens skatter, avgifter och skulder betalas i rätt tid.</li>
+
+          <li>i förekommande fall upprätta och avge allmän självdeklaration, särskild uppgift, kontrolluppgifter, uppbördsdeklarationer och övriga föreskrivna uppgifter inom skatte- och avgiftsområdet.</li>
+
+          <li>föra medlemsföreteckning.</li>
+
+          <li>föra inventarieförteckning över föreningens fasta egendom.</li>
+        </ul>
+      </span>
+</ol>

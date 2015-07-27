@@ -1,0 +1,66 @@
+body
+{
+  background-color: #FEE5AC;
+  font-family: helvetica;
+  overflow-y: scroll;
+}
+#content
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 815px;
+  min-width: 500px;
+  text-align: left;
+}
+
+.article
+{
+  background-color: #fff;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin: 5px;
+  margin-top: -12px;
+  word-wrap: break-word;
+  position: relative;
+  // Honey - FEE5AC
+  // Buttermilk - FEF1B5
+  // Light golden rod - FFEC8B
+  // grapefruit - F3E88E
+}
+
+.article > img
+{
+  position: absolute;
+  bottom: 3px;
+  right: 3px;
+  width: 100px;
+}
+.article h1, .article h2
+{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 0;
+  margin-bottom: 5px;
+}
+.article span
+{
+  display: inline-block;
+  width: 650px;
+  margin-left: 12px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.article span > p
+{
+  font-size: 15px;
+  font-style: italic;
+}
+.article > p
+{
+  font-size: 14px;
+  font-style: italic;
+  color: #888;
+  margin-left: 20px;
+  margin-top: -5px;
+  margin-bottom: 5px;
+}

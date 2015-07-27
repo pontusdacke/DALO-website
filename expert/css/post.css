@@ -1,0 +1,23 @@
+img
+{
+  width: 150px;
+}
+table, tr, td
+{
+  width: 800px;
+}
+input[type="text"]
+{
+  padding: 1px;
+  margin: 0;
+  width: 100%;
+}
+textarea
+{
+  width: 100%;
+}
+#content img
+{
+  height: 150px;
+  width: auto;
+}
