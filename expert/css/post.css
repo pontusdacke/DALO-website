@@ -4,7 +4,7 @@ img
 }
 table, tr, td
 {
-  width: 800px;
+  width: 100%;
 }
 input[type="text"]
 {

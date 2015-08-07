@@ -20,12 +20,17 @@
 <html>
 <head>
   <title>Admin panel</title>
-  <link href="css/base.css" style="text/css" rel="stylesheet">
+  <link href="../css/base.css" style="text/css" rel="stylesheet">
 </head>
 <body>
   <div id="content">
     <?php include('header.php') ?>
-
+    <article class="article">
+      <section>
+        <span>This is the admin panel. This page needs to be in English because it's cooler.<br>
+        Use the tools in the navigation menu!</span>
+      </section>
+    </article>
   </div>
 </body>
 </html>

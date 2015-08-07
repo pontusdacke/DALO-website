@@ -7,11 +7,13 @@
   <link href="css/schedule.css" type="text/css" rel="stylesheet">
   <link href="css/calendar.css" type="text/css" rel="stylesheet">
   <link href="css/popup.css" type="text/css" rel="stylesheet">
+
+
   <script src="js/jquery-2.1.4.min.js"></script>
 </head>
 <body>
-  <?php include("header.php"); ?>
   <div id="content">
+    <?php include("header.php"); ?>
     <section class='article'>
       <?php
       include "calendar_class.php";

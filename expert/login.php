@@ -51,13 +51,7 @@
 <head>
   <meta charset="utf-8">
   <title>Login</title>
-  <style type="text/css">
-    body
-    {
-      background-color: #ffe;
-      font-family: helvetica;
-    }
-  </style>
+  <link href="../css/base.css" type="text/css" rel="stylesheet">
 </head>
 <body>
   <div style="top: 0; left: 0; display: table; position: absolute; height: 100%; width: 100%;">

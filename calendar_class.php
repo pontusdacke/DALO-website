@@ -87,6 +87,7 @@ class Calendar
       $monthOffset = $_GET["m"];
       $this->month + $_GET["m"];
     }
+
     $mLeft = $monthOffset-1;
     $mRight = $monthOffset+1;
     // Create the table tag opener and day headers
@@ -109,7 +110,8 @@ class Calendar
     // display consists of exactly 7 columns.
     if ($dayOfWeek > 0) { $calendar .= "<td colspan='$dayOfWeek'>&nbsp;</td>"; }
 
-    $this->month = str_pad($this->month, 2, "0", STR_PAD_LEFT) + $monthOffset;
+    $this->month = str_pad($this->month, 2, "0", STR_PAD_LEFT);
+
     while ($currentDay <= $numberDays)
     {
       // Seventh column (Saturday) reached. Start a new row.
@@ -129,16 +131,19 @@ class Calendar
       $calendar .= "rel='$date'><p>$currentDay</p>";
 
       // Add the event
-      foreach ($this->events as $key => $ev)
+      if (isset($this->events))
       {
-        $currentDate = $this->year . "-" . $this->month . "-" . "$currentDayRel";
-        if (date("Y-m-d", strtotime($currentDate)) == date("Y-m-d", strtotime($ev->time)))
+        foreach ($this->events as $key => $ev)
         {
-          $calendar .= "<span class='event'>";
-          $calendar .= "<a class='btn' data-popup-open='popup-1' value='$ev->time' href='#'>";
-          $calendar .= $this->events[$key]->name;
-          $calendar .= "</a>";
-          $calendar .= "</span>";
+          $currentDate = $this->year . "-" . $this->month . "-" . "$currentDayRel";
+          if (date("Y-m-d", strtotime($currentDate)) == date("Y-m-d", strtotime($ev->time)))
+          {
+            $calendar .= "<span class='event'>";
+            $calendar .= "<a class='btn' data-popup-open='popup-1' value='$ev->time' href='#'>";
+            $calendar .= $this->events[$key]->name;
+            $calendar .= "</a>";
+            $calendar .= "</span>";
+          }
         }
       }
       $calendar .= "</td>";

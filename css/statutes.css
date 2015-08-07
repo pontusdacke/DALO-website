@@ -2,7 +2,6 @@ section span
 {
   font-size: 12px;
 }
-
 h1
 {
   text-align: center;
@@ -11,14 +10,9 @@ h2
 {
   font-size: 20px;
 }
-
 section > ol > li
 {
   font-weight: bold;
   font-size: 14px;
   margin: 10px;
-}
-ol, ul
-{
-  line-height: 20px;
 }

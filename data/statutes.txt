@@ -1,8 +1,8 @@
-<h1>DALOs stadgar</h1>
-
-<h2>ALLMÄNNA BESTÄMMELSER</h2>
+﻿<h1>DALOs stadgar</h1>
 
 <ol>
+  <h2>ALLMÄNNA BESTÄMMELSER</h2>
+
   <li>Mål och inriktning:</li>
     <span>
       Föreningen skall inriktas mot att bevaka medlemmarnas intresse gentemot akademin vad avser kurser och utbildningar.<br>
@@ -18,7 +18,7 @@
       Föreningens verksamhet skall vara ideell, samt organiseras enligt demokratiska principer.<br>
       Föreningen skall innehålla endast studenter som studerar vid Mälardalens Högskola inom program godkända av styrelsen, eller före detta studenter inom dessa program. För att utesluta ett program ur föreningen krävs beslut vid årsmöte. Studenter som studerar eller studerat vid en svensk högskola/universitet men som ej studerar eller har studerat ett av styrelsen godkänt program kan ansöka om undantagstillstånd genom att skicka en skriftlig ansökan till styrelsen får att bli medlem i föreningen, dessa studenter behöver dock specifikt godkännas av de som har studerat ett godkänt program för att få bli medlem i föreningens styrelse.<br>
       <br>
-      För att äga och bära en Dalo-overall måste personen vara eller har varit en godk'nd medlem i föreningen.<br>
+      För att äga och bära en Dalo-overall måste personen vara eller har varit en godkänd medlem i föreningen.<br>
     </span>
   <li>Regler för medlemskap och uteslutning:</li>
     <span>

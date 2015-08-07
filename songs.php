@@ -7,6 +7,13 @@
   <script src="jquery-2.1.4.min.js"></script>
 </head>
 <body>
-  <?php include("header.php"); ?>
+  <div id="content">
+    <?php include("header.php"); ?>
+    <article class="article">
+      <section>
+        <span>Lär du dig på n0llningen (coming soon)</span>
+      </section>
+    </article>
+  </div>
 </body>
 </html>

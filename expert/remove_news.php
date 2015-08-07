@@ -3,27 +3,14 @@
 <html>
 <head>
   <title>Manage content</title>
-<link href="css/base.css" style="text/css" rel="stylesheet">
+<link href="../css/base.css" style="text/css" rel="stylesheet">
 <link href="css/manage.css" style="text/css" rel="stylesheet">
 </head>
 <body>
 
 <?php
   include("../newspost_class.php");
-
-  $servername = "localhost";
-  $username = "root";
-  $password = "";
-
-  // Create connection
-  $mysqli = new mysqli($servername, $username, $password);
-
-  // Check connection
-  if ($mysqli->connect_error) {
-      die("Connection failed: " . $conn->connect_error);
-  }
-
-  $mysqli->select_db("thought");
+  include("config.php");
 
   $query = "SELECT * FROM newspost ORDER BY id DESC";
 
@@ -40,6 +27,7 @@
 ?>
 <?php include('header.php') ?>
   <div id="content">
+    <article class="article">
     <?php
       $counter = 0;
       echo "<table>";
@@ -54,7 +42,7 @@
         $counter++;
         echo "<tr bgcolor=" . $color .">";
         echo "<td width='500px'>" . $post->title . "</td>";
-        echo "<td><a href='delete.php?id=" . $post->id ."'>";
+        echo "<td><a onclick='if(window.confirm(\"Delete?\")){window.location.replace(\"delete_news.php?id=$post->id\", \"Deleted!\");}'>";
         echo "<img src='img/delete-icon.png' alt='delete'>";
         echo "</a></td>";
         echo "</tr>";
@@ -62,6 +50,7 @@
       echo "</table>";
     $mysqli->close();
     ?>
+  </article>
   </div>
 </body>
 </html>

@@ -8,9 +8,11 @@
     // Posting news
     if ($_SERVER["REQUEST_METHOD"] == "POST")
     {
-      if (!isset($_POST["title"]) || !isset($_POST["content"]) || !isset($_POST["homerimage"]))
+      if (!isset($_POST["title"])  || $_POST["title"] == ""
+      || !isset($_POST["content"])  || $_POST["content"] == ""
+      || !isset($_POST["homerimage"]))
       {
-        echo "You need to fill title, content and select a homer image.";
+        echo "You need to fill title, content and preferably select a homer image.";
         die();
       }
 
@@ -61,21 +63,22 @@
 <html>
 <head>
   <title>Post news</title>
-  <link href="css/base.css" style="text/css" rel="stylesheet">
+  <link href="../css/base.css" style="text/css" rel="stylesheet">
   <link href="css/post.css" style="text/css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 </head>
 <body>
     <?php include('header.php') ?>
   <div id="content">
-      <form method="post" action="post.php" id="newsform">
+    <article class="article">
+      <form method="post" action="add_news.php" id="newsform">
         <table>
           <tr> <td><span style="padding: 3px"> Post news: </span></td> </tr>
           <tr>
             <td><input type="text" name="title" placeholder="Type your title here."></td>
           </tr>
           <tr>
-            <td><textarea name="content" cols="92" rows="15" placeholder="Write your news here."></textarea></td>
+            <td><textarea name="content" rows="15" placeholder="Write your news here."></textarea></td>
           </tr>
           <tr>
             <td>
@@ -99,6 +102,7 @@
           </tr>
         </table>
       </form>
+    </article>
   </div>
   <script>
   $("select").change(function () {

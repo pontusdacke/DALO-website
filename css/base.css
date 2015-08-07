@@ -1,8 +1,33 @@
 body
 {
-  background-color: #FEE5AC;
+  background-color: #fff3b7; /* fff7cf är ljusare */
   font-family: helvetica;
   overflow-y: scroll;
+}
+abbr
+{
+  border-bottom: 1px dotted black;
+}
+abbr[data]:hover:after
+{
+  content: attr(data);
+  padding: 4px 8px;
+  color: #333;
+  position: absolute;
+  z-index: 20;
+  white-space: nowrap;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 0px 4px #222;
+  -webkit-box-shadow: 0px 0px 4px #222;
+  box-shadow: 0px 0px 4px #222;
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
+  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
 }
 #content
 {
@@ -12,22 +37,16 @@ body
   min-width: 500px;
   text-align: left;
 }
-
 .article
 {
   background-color: #fff;
   border-radius: 10px;
-  padding-left: 10px;
+  padding: 15px;
   margin: 5px;
-  margin-top: -12px;
+  margin-top: 10px;
   word-wrap: break-word;
   position: relative;
-  // Honey - FEE5AC
-  // Buttermilk - FEF1B5
-  // Light golden rod - FFEC8B
-  // grapefruit - F3E88E
 }
-
 .article > img
 {
   position: absolute;
@@ -35,32 +54,29 @@ body
   right: 3px;
   height: 120px;
 }
-.article h1, .article h2
+.simpson
 {
-  padding-top: 10px;
-  padding-left: 10px;
-  padding-bottom: 0;
-  margin-bottom: 5px;
+  position: absolute;
+  bottom: 15px;
+  right: 3px;
+  height: 120px;
 }
-.article span
-{
-  display: inline-block;
-  width: 650px;
-  margin-left: 12px;
-  padding-top: 0px;
-  margin-top: 0px;
-}
-.article span > p
+.articleAuthor
 {
   font-size: 15px;
   font-style: italic;
+  margin-bottom: 0px;
 }
-.article > p
+.articleDate
 {
   font-size: 14px;
   font-style: italic;
   color: #888;
-  margin-left: 20px;
   margin-top: -5px;
+  margin-bottom: 5px;
+}
+.articleTitle
+{
+  margin-top: 0px;
   margin-bottom: 5px;
 }

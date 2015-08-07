@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Project Thought</title>
   <link href="css/base.css" type="text/css" rel="stylesheet">
+  <?php include 'simpson/simpson-css.php' ?>
   <script src="js/jquery-2.1.4.min.js"></script>
 </head>
 <body>
@@ -11,7 +12,7 @@
   include("header.php");
   include("newspost_class.php");
   include("expert/config.php");
-  
+
   $count = 5; // Standard news count
   if (isset($_GET["count"]))
   {
@@ -52,10 +53,18 @@
             echo "<article class='article'> ";
             if ($post->moodImageUrl != "#")
               echo "<img src=" . $post->moodImageUrl ." alt='A homer mood image'>";
-            echo "<header><h2>" . $post->title . "</h2></header>";
-            echo "<p>" . $mysqldate . "</p>";
-            echo "<span>" . $post->post;
-            echo "<p>Skriven av: " . ucwords($post->author) . "</p></span>";
+            else
+            {
+              echo "<div class='simpson'>";
+              include 'simpfunc.php';
+              getSimpById(0);
+              echo "</div>";
+            }
+
+            echo "<h2 class='articleTitle'>" . $post->title . "</h2>";
+            echo "<p class='articleDate'>" . $mysqldate . "</p>";
+            echo "<span class='articleContent'>" . $post->post . "</span>";
+            echo "<p class='articleAuthor'>Skriven av: " . ucwords($post->author) . "</p>";
             echo "</article>";
           }
         }
